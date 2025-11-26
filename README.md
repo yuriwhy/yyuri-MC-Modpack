@@ -1,1 +1,1 @@
-# yyuri-MC-Modpack
+# YYuri's Minecraft Modpack
