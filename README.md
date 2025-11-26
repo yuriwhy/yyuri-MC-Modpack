@@ -1,1 +1,1 @@
-# YYuri's Minecraft Modpack
+# YYuri's Minecraft Modpack: MCA Edition
