@@ -1,0 +1,16 @@
+filename = 'waystones-fabric-1.21.1-21.1.24.jar'
+name = 'Waystones'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '993341fcb73e9c5679a1bd352377bc02f6ac74513a8c520bdd924299d478c45b9ba168b2ab5e8a5d48c9590d9fc7e94ed4956cce454a19a89c041a5484ddf398'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LOpKHB2A/versions/SSwc4EdC/waystones-fabric-1.21.1-21.1.24.jar'
+
+[update.modrinth]
+mod-id = 'LOpKHB2A'
+version = 'SSwc4EdC'
