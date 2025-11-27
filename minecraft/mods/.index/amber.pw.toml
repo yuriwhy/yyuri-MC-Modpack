@@ -1,0 +1,16 @@
+filename = 'amber-fabric-1.21.1-3.0.0+1.21.1.jar'
+name = 'Amber'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '227788c7eb9e542831eacfa4f8612fcb300ee88c47b8338973b9d58affcbbf771576c5d133fdb839f3ab84d950eb085316b50ba6bdb74ab4fefc4ff04cb8ba45'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vjGZJDu5/versions/S5OLOL4r/amber-fabric-1.21.1-3.0.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'vjGZJDu5'
+version = 'S5OLOL4r'

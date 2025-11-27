@@ -1,0 +1,16 @@
+filename = 'eldritch-mobs-1.16.4.jar'
+name = 'Eldritch Mobs'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '10506882611fa7540552ca5cd447754ebe6c3c5eeadcfc9ca1de2f5ee3eeaea8e9cd4c6883a4345f3fadb9a981a1a99956b37b3cc7cd07990e875a47ab2230c3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/emXFPmJd/versions/UGRkjXxG/eldritch-mobs-1.16.4.jar'
+
+[update.modrinth]
+mod-id = 'emXFPmJd'
+version = 'UGRkjXxG'

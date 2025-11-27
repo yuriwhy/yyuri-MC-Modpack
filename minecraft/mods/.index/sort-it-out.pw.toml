@@ -1,0 +1,16 @@
+filename = 'sort_it_out-fabric-1.1.4+1.21.1.jar'
+name = 'Sort It Out!'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dfbb800ec122a2a819698ed88f40be5e27d9c595ffe487d5fcbc92a32298eea55c8ce26816cd7a56bed10bd39a60c311df08e6b748114e78bd7fa534ff374640'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jcOSOvm1/versions/JVYsJUyX/sort_it_out-fabric-1.1.4%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'jcOSOvm1'
+version = 'JVYsJUyX'

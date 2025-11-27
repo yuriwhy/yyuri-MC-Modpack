@@ -1,0 +1,16 @@
+filename = 'ImmersiveOres-1.21.1-1.1.5.jar'
+name = 'Immersive Ores'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '34a4bbe42264afba3c023e27ad3c2afab73ca986709601167e0f9b373d8256221cdfb6be8cd4cfe7fb95c639c55680a5b55a2ad795c2de40b1a5f47742cb55a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/F9Vuwq3S/versions/fILIGRnj/ImmersiveOres-1.21.1-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'F9Vuwq3S'
+version = 'fILIGRnj'
